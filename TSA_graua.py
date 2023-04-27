@@ -1,5 +1,5 @@
-# O codigo foi feito no google colab por isso possui esses import, é recomendado importar esse algoritmo para google, 
-#assim não sendo necessario modificação no momento da execução 
+# O codigo foi feito no google colab por isso possui esses import e textos. É recomendado importar esse algoritmo para google, 
+#assim não sendo necessario modificação do codigo no momento da execução .
 
 # -*- coding: utf-8 -*-
 """GrauA.ipynb
